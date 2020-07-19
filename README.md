@@ -11,7 +11,7 @@ Please cite the above paper if you intent to use whole/part of the code. This co
  
  
  ## Code Organization
- The codes are written in Jupyter Notebook.
+ The codes are written in Jupyter Notebook and python3.
  
  ## Dependencies
  
@@ -27,3 +27,7 @@ Please cite the above paper if you intent to use whole/part of the code. This co
  10) functools 0.5: pip install functools
  11) scikit-image 0.17.2: pip install scikit-image
  12) opencv-python 4.3.0.36: pip install opencv-python
+
+
+## Usage
+1.
