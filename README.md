@@ -9,8 +9,7 @@ With the spirit of reproducible research, this repository contains codes require
     
 Please cite the above paper if you intent to use whole/part of the code. This code is only for academic and research purposes.
 
-< img src"https://user-images.githubusercontent.com/62281372/87881366-658c3480-ca16-11ea-9ed9-3623e58ddee5.jpg", width="50" >
-
+![timeseries](https://user-images.githubusercontent.com/62281372/87881577-da13a300-ca17-11ea-8785-1cc321c4cffd.jpg)
 
 
  ## Code Organization
