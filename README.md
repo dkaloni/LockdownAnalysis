@@ -39,3 +39,5 @@ Please cite the above paper if you intent to use whole/part of the code. This co
 3. Python3 ImageDifferenceofTwoPlots.py : Run this script to obtain the difference of two NO2 Concentration plots made using Cartopy or Panoply(https://www.giss.nasa.gov/tools/panoply/) to infer and analyze the decrease in daily average concentration.
 
 4. Jupyter Notebook MapsfromNetCDFfiles.ipynb : Run this script to retrieve,read,edit,store and plot netCDF files obtained from Sentinel-5P.
+
+Note:- Data Source - NASA's Goddard Earth Sciences Data and Information Services Center (GES DISC) (https://disc.gsfc.nasa.gov/)
