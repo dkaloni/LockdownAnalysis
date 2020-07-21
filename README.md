@@ -31,5 +31,11 @@ Please cite the above paper if you intent to use whole/part of the code. This co
  12) opencv-python 4.3.0.36: pip install opencv-python
 
 
-## Usage
-1.
+
+1. CombiningNetCDFfiles.ipynb : Run this script to combine netCDF files. This comes under preprocessing of data to obtain a publication quality dataset.(http://nco.sourceforge.net/)  
+
+2. DailyAverageConcPlots.ipynb : Run this script to obtain the distribution plots used in the paper. Contains time series line plot of daily average Nitrogen Dioxide concentration, bar plots of satellite data obtained from Sentinel-5p for average concentration of 15 days for year 2019 and 2020 and line plots of ground based monitoring station(ITO,Delhi station). It saves the plots as .png and .pdf format for future use in the same folder as the script.
+
+3. ImageDifferenceofTwoPlots.py : Run this script to obtain the difference of two NO2 Concentration plots made using Cartopy or Panoply(https://www.giss.nasa.gov/tools/panoply/) to infer and analyze the decrease in daily average concentration.
+
+4. MapsfromNetCDFfiles.ipynb : Run this script to retrieve,read,edit,store and plot netCDF files obtained from Sentinel-5P.
