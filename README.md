@@ -30,7 +30,7 @@ Please cite the above paper if you intent to use whole/part of the code. This co
  11) scikit-image 0.17.2: pip install scikit-image
  12) opencv-python 4.3.0.36: pip install opencv-python
 
-
+## Scripts
 
 1. CombiningNetCDFfiles.ipynb : Run this script to combine netCDF files. This comes under preprocessing of data to obtain a publication quality dataset.(http://nco.sourceforge.net/)  
 
