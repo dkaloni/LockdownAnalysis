@@ -7,6 +7,7 @@ With the spirit of reproducible research, this repository contains codes require
 Please cite the above paper if you intent to use whole/part of the code. This code is only for academic and research purposes.
 
 ![gif11](https://user-images.githubusercontent.com/62281372/89396679-79c97480-d72c-11ea-9ac2-424ee965f33b.gif)
+
 *Time lapse of spatial distribution of nitrogen dioxide concentration for the case study of New Delhi.*
 
 ![timeseries](https://user-images.githubusercontent.com/62281372/87881577-da13a300-ca17-11ea-8785-1cc321c4cffd.jpg)
@@ -35,10 +36,10 @@ The data source in this work is NASA's Goddard Earth Sciences Data and Informati
 
 ### Scripts
 
- + `Jupyter Notebook CombiningNetCDFfiles.ipynb`: Run this script to [combine netCDF files](http://nco.sourceforge.net/). This comes under preprocessing of data to obtain a publication quality dataset.  
+ + `CombiningNetCDFfiles.ipynb`: Run this script to [combine netCDF files](http://nco.sourceforge.net/). This comes under preprocessing of data to obtain a publication quality dataset.  
 
-+ `Jupyter Notebook DailyAverageConcPlots.ipynb`: Run this script to obtain the distribution plots used in the paper. Contains time series line plot of daily average nitrogen dioxide concentration, bar plots of satellite data obtained from Sentinel-5P for average concentration of 15 days for year 2019 and 2020 and line plots of ground based monitoring station (ITO, Delhi station). It saves the plots as `.png` and `.pdf` format for future use in the same folder as the script.
++ `DailyAverageConcPlots.ipynb`: Run this script to obtain the distribution plots used in the paper. Contains time series line plot of daily average nitrogen dioxide concentration, bar plots of satellite data obtained from Sentinel-5P for average concentration of 15 days for year 2019 and 2020 and line plots of ground based monitoring station (ITO, Delhi station). It saves the plots as `.png` and `.pdf` format for future use in the same folder as the script.
 
-+ `python3 ImageDifferenceofTwoPlots.py`: Run this script to obtain the difference of two NO_2 Concentration plots made using Cartopy or [Panoply](https://www.giss.nasa.gov/tools/panoply/) to infer and analyze the decrease in daily average concentration.
++ `python3 ImageDifferenceofTwoPlots.py`: Run this script to obtain the difference of two NO<sub>2</sub> Concentration plots made using Cartopy or [Panoply](https://www.giss.nasa.gov/tools/panoply/) to infer and analyze the decrease in daily average concentration.
 
-+ `Jupyter Notebook MapsfromNetCDFfiles.ipynb`: Run this script to retrieve, read, edit, store and plot netCDF files obtained from Sentinel-5P.
++ `MapsfromNetCDFfiles.ipynb`: Run this script to retrieve, read, edit, store and plot netCDF files obtained from Sentinel-5P.
