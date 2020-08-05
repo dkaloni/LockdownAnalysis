@@ -44,3 +44,4 @@ Please cite the above paper if you intent to use whole/part of the code. This co
 
 
 Note:- Data Source - NASA's Goddard Earth Sciences Data and Information Services Center (GES DISC) (https://disc.gsfc.nasa.gov/)
+Data used is available through this link (https://drive.google.com/drive/folders/1mo6IYjHD1XFzmsdIrhZira2YxTLBOfSy?usp=sharing)
