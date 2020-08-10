@@ -43,3 +43,6 @@ The data source in this work is NASA's Goddard Earth Sciences Data and Informati
 + `python3 ImageDifferenceofTwoPlots.py`: Run this script to obtain the difference of two NO<sub>2</sub> Concentration plots made using Cartopy or [Panoply](https://www.giss.nasa.gov/tools/panoply/) to infer and analyze the decrease in daily average concentration.
 
 + `MapsfromNetCDFfiles.ipynb`: Run this script to retrieve, read, edit, store and plot netCDF files obtained from Sentinel-5P.
+
+
+To explore Sentinel-5P in detail, follow Research and User Support of Copernicus at https://rus-training.eu/
