@@ -1,8 +1,8 @@
-# Impact of C19-induced Lockdown on Air Quality
+# Air Quality in the New Delhi Metropolis under COVID-19 Lockdown
 
 With the spirit of reproducible research, this repository contains codes required to produce the results in the manuscript:
     
-> D. Kaloni, Y. H. Lee, S. Dev, Impact of C19-induced Lockdown on Air Quality, *under review*.
+> D. Kaloni, Y. H. Lee, S. Dev, Air Quality in the New Delhi Metropolis under COVID-19 Lockdown, *under review*.
     
 Please cite the above paper if you intent to use whole/part of the code. This code is only for academic and research purposes.
 
