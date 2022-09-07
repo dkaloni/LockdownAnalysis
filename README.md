@@ -32,7 +32,7 @@ Please cite the above paper if you intent to use whole/part of the code. This co
  + opencv-python 4.3.0.36: `pip install opencv-python`
  
 ### Data
-The data source in this work is NASA's Goddard Earth Sciences Data and Information Services Center ([GES DISC](https://disc.gsfc.nasa.gov/)). We are releasing the processed data that we used in this work. You may download the processed data from [this Google Drive link](https://drive.google.com/drive/folders/1mo6IYjHD1XFzmsdIrhZira2YxTLBOfSy?usp=sharing). 
+The data source in this work is NASA's Goddard Earth Sciences Data and Information Services Center ([GES DISC](https://disc.gsfc.nasa.gov/)). We are releasing the processed data that we used in this work. You may download the processed data from [this Google Drive link](https://drive.google.com/drive/folders/1kweFru6JJnLKMTjGTJqDnuhQc1au-RhF?usp=sharing). 
 
 ### Scripts
 
